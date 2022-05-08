@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+
+#xd{
+    position: relative;
+    top: 10vh;
+    left: 30vw;
+}
+
+#board{
+    position: absolute;
+    left: 272px;
+    top: 64px;
+    width: 128px;
+    height: 288px;
+}
+
+.div{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    float: left;
+}
+
+#animation1{
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    height: 128px;
+    width: 192px;
+}
+
+#over{
+    position: absolute;
+    top: 128px;
+    left: 224px;
+    width: 224px;
+    height: 80px;
+}
+
+#mario{
+    position: absolute;
+    top:46px;
+    left: 478px;
+    width: 116px;
+    height: 116px;
+}
+
+#win{
+    position: absolute;
+    left: 192px;
+    top: 128px;
+    width: 288px;
+    height: 80px;
+}
+
+#level{
+    position: absolute;
+    left: 560px;
+    top: 240px;
+    height: 16px;
+    width: 32px;
+}
+
+#level img{
+    width: 16x;
+    height: 16px;
+    float: left;
+}
+
+#virus{
+    position: absolute;
+    left: 560px;
+    top: 336px;
+    height: 16px;
+    width: 32px;
+}
+
+#virus img{
+    width: 16x;
+    height: 16px;
+    float: left;
+}
+
+#score{
+    position: absolute;
+    left: 80px;
+    top: 128px;
+    height: 16px;
+    width: 80px;
+}
+
+#score img{
+    width: 16x;
+    height: 16px;
+    float: left;
+}
+
+#top{
+    position: absolute;
+    left: 80px;
+    top: 80px;
+    height: 16px;
+    width: 80px;
+}
+
+#top img{
+    width: 16x;
+    height: 16px;
+    float: left;
+}
+
+#background img{
+    width: 640px;
+    height: 384px;
+}
+
+#dance{
+    position: absolute;
+    left: 32px;
+    top: 224px;
+    height: 128px;
+    width: 176px;
+}
